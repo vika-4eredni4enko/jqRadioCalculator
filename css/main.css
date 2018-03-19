@@ -1,0 +1,48 @@
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+form {
+	width: 30%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+form h2 {
+    text-transform: uppercase;
+    margin: 0;
+}
+
+input {
+	outline: none;
+}
+
+div {
+	margin: 10px 0;
+	text-align: center;
+}
+
+div label {
+	margin: 0 10px 0 0;
+}
+
+div input[type=text] {
+	padding: 8px 20px;
+	border-radius: 7px;
+	border: 1px solid #dddddd;
+}
+
+div input[type=button] {
+	padding: 6px 10px;
+	border-radius: 12px;
+	font-size: 16px;
+	border: 1px solid #dddddd;
+	cursor: pointer;
+	color: #fff;
+	background-color: #898989;
+}
+
+fieldset {
+	padding: 30px 0;
+	background-color: #7f7f7f0f;
+}
