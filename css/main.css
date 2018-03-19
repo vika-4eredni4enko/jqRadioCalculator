@@ -44,5 +44,5 @@ div input[type=button] {
 
 fieldset {
 	padding: 30px 0;
-	background-color: #7f7f7f0f;
+	background-color: rgba(0, 0, 0, 0.06);
 }
